@@ -1,0 +1,26 @@
+entity_id,entity_name,segment,priority_score,avg_risk_score,avg_quality_score,estimated_impact
+REV008,Revenue workflow 8,Core,94.31,50.7,80.9,794822
+REV030,Revenue workflow 30,Growth,92.04,45.0,81.5,815396
+REV032,Revenue workflow 32,Watch,91.79,51.6,79.8,746394
+REV020,Revenue workflow 20,Core,91.42,50.3,80.3,754885
+REV019,Revenue workflow 19,Watch,90.04,55.6,83.5,704157
+REV034,Revenue workflow 34,Watch,86.79,53.2,80.0,663824
+REV025,Revenue workflow 25,Growth,86.28,53.0,82.2,667757
+REV010,Revenue workflow 10,Watch,84.68,51.7,81.4,653637
+REV029,Revenue workflow 29,Growth,83.46,49.7,79.2,643489
+REV007,Revenue workflow 7,Strategic,83.33,54.1,80.8,611229
+REV013,Revenue workflow 13,Strategic,83.04,51.0,79.7,628583
+REV027,Revenue workflow 27,Growth,83.03,50.2,81.3,642719
+REV023,Revenue workflow 23,Watch,82.66,53.0,80.6,610720
+REV015,Revenue workflow 15,Strategic,82.53,54.4,80.7,596284
+REV024,Revenue workflow 24,Strategic,82.42,48.8,81.8,648487
+REV004,Revenue workflow 4,Watch,82.39,51.3,80.3,619820
+REV011,Revenue workflow 11,Growth,80.15,49.2,80.4,607383
+REV026,Revenue workflow 26,Core,78.95,52.6,80.2,560167
+REV028,Revenue workflow 28,Core,78.68,49.5,79.8,581329
+REV016,Revenue workflow 16,Strategic,77.57,50.9,79.6,552623
+REV021,Revenue workflow 21,Core,76.10,52.8,79.8,517024
+REV003,Revenue workflow 3,Strategic,73.95,53.7,82.1,488792
+REV005,Revenue workflow 5,Strategic,73.05,50.7,81.2,498871
+REV035,Revenue workflow 35,Growth,72.56,52.4,80.3,472434
+REV014,Revenue workflow 14,Strategic,72.52,52.3,80.4,473376
