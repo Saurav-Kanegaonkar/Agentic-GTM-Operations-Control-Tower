@@ -1,0 +1,247 @@
+account_id,account_name,territory,segment,industry,product_motion,pipeline_stage,estimated_acv,open_pipeline,workload_fit_score,data_completeness_pct,customer_health_score,forecast_category,rep_capacity_load_pct,ai_assist_eligible
+ACCT0001,Account 0001,Northeast Enterprise,Enterprise,Retail,BYOC Evaluation,Stage 2,164920,143059,65,73,56,Pipeline,89,Yes
+ACCT0002,Account 0002,Northeast Enterprise,Enterprise,Fintech,BYOC Evaluation,Target,231033,0,62,90,80,Pipeline,103,Yes
+ACCT0003,Account 0003,Northeast Enterprise,Enterprise,Fintech,Cloud Standard,Stage 3,405490,677703,76,95,59,Commit,83,Yes
+ACCT0004,Account 0004,Northeast Enterprise,Enterprise,Retail,Cloud Advanced,Engaged,301602,244688,96,79,48,Closed,100,Yes
+ACCT0005,Account 0005,Northeast Enterprise,Enterprise,Logistics,Cloud Basic,Engaged,187397,350009,77,92,49,Best Case,115,Yes
+ACCT0006,Account 0006,Northeast Enterprise,Enterprise,Fintech,Cloud Standard,Stage 2,760360,1175125,71,94,54,Closed,67,Yes
+ACCT0007,Account 0007,Northeast Enterprise,Enterprise,Media,Cloud Standard,Commit,737775,1079233,72,75,71,Pipeline,75,Yes
+ACCT0008,Account 0008,Northeast Enterprise,Enterprise,Gaming,BYOC Evaluation,Stage 3,586372,839073,91,99,46,Commit,72,Yes
+ACCT0009,Account 0009,Northeast Enterprise,Enterprise,Fintech,Cloud Standard,Stage 1,327938,498970,88,93,56,Closed,113,Yes
+ACCT0010,Account 0010,Northeast Enterprise,Enterprise,Cybersecurity,Self-Hosted,Engaged,326856,352225,61,94,87,Closed,103,Watch
+ACCT0011,Account 0011,Northeast Enterprise,Enterprise,Logistics,BYOC Evaluation,Stage 1,325457,330433,63,93,76,Best Case,76,Yes
+ACCT0012,Account 0012,Northeast Enterprise,Enterprise,Retail,Cloud Standard,Customer,260451,0,79,63,58,Commit,112,Watch
+ACCT0013,Account 0013,Northeast Enterprise,Enterprise,SaaS,BYOC Evaluation,Stage 3,511592,969644,72,82,80,Closed,62,Yes
+ACCT0014,Account 0014,Northeast Enterprise,Enterprise,Retail,Cloud Advanced,Stage 3,245492,360666,82,75,91,Best Case,91,Yes
+ACCT0015,Account 0015,Northeast Enterprise,Enterprise,Gaming,BYOC Evaluation,Target,602202,0,94,74,74,Renewal Risk,117,Yes
+ACCT0016,Account 0016,Northeast Enterprise,Enterprise,Gaming,BYOC Evaluation,Stage 2,710530,627688,80,96,54,Renewal Risk,95,Yes
+ACCT0017,Account 0017,Northeast Enterprise,Enterprise,SaaS,Cloud Standard,Customer,513267,0,79,59,78,Pipeline,118,Watch
+ACCT0018,Account 0018,Northeast Enterprise,Enterprise,Gaming,Cloud Standard,Stage 2,219656,172003,94,89,94,Commit,97,Yes
+ACCT0019,Account 0019,Northeast Enterprise,Enterprise,Healthcare,Cloud Advanced,Target,468037,0,86,85,55,Best Case,104,Yes
+ACCT0020,Account 0020,Northeast Enterprise,Enterprise,Retail,Cloud Advanced,Stage 2,415792,414747,81,86,49,Pipeline,97,Yes
+ACCT0021,Account 0021,Northeast Enterprise,Enterprise,Fintech,Cloud Advanced,Engaged,303950,296269,52,98,45,Pipeline,77,Watch
+ACCT0022,Account 0022,Northeast Enterprise,Enterprise,Cybersecurity,Cloud Standard,Engaged,442823,807096,82,66,88,Closed,113,Watch
+ACCT0023,Account 0023,Northeast Enterprise,Enterprise,Cybersecurity,Cloud Basic,Stage 1,231492,279711,90,85,64,Commit,103,Yes
+ACCT0024,Account 0024,Northeast Enterprise,Enterprise,Healthcare,Cloud Standard,Target,396263,0,69,64,57,Best Case,70,Watch
+ACCT0025,Account 0025,Northeast Enterprise,Enterprise,Retail,Cloud Basic,Stage 1,332167,554594,63,62,70,Commit,96,Watch
+ACCT0026,Account 0026,Northeast Enterprise,Enterprise,Cybersecurity,Cloud Standard,Commit,896436,1064694,96,73,52,Closed,65,Yes
+ACCT0027,Account 0027,Northeast Enterprise,Enterprise,Cybersecurity,Cloud Advanced,Target,114996,0,72,74,92,Best Case,108,Yes
+ACCT0028,Account 0028,Northeast Enterprise,Enterprise,SaaS,Cloud Standard,Customer,485429,0,93,89,67,Renewal Risk,99,Yes
+ACCT0029,Account 0029,Northeast Enterprise,Enterprise,Gaming,Cloud Basic,Stage 3,204578,286617,68,61,45,Renewal Risk,67,Watch
+ACCT0030,Account 0030,Northeast Enterprise,Enterprise,Healthcare,BYOC Evaluation,Commit,211223,178243,52,73,67,Best Case,101,Watch
+ACCT0031,Account 0031,Northeast Enterprise,Enterprise,SaaS,Cloud Standard,Target,553449,0,84,91,62,Commit,82,Yes
+ACCT0032,Account 0032,Northeast Enterprise,Enterprise,Retail,Cloud Basic,Engaged,392568,490187,90,99,61,Best Case,98,Yes
+ACCT0033,Account 0033,Northeast Enterprise,Enterprise,Media,Cloud Basic,Customer,215201,0,61,90,63,Closed,85,Watch
+ACCT0034,Account 0034,Northeast Enterprise,Enterprise,Fintech,BYOC Evaluation,Engaged,415840,782038,82,77,81,Pipeline,104,Yes
+ACCT0035,Account 0035,Northeast Enterprise,Enterprise,Gaming,Cloud Advanced,Target,751432,0,64,65,48,Pipeline,75,Watch
+ACCT0036,Account 0036,Northeast Enterprise,Enterprise,Fintech,Cloud Basic,Stage 3,295882,380574,88,74,74,Commit,115,Yes
+ACCT0037,Account 0037,Northeast Enterprise,Enterprise,Cybersecurity,BYOC Evaluation,Engaged,120859,108035,56,98,58,Commit,97,Watch
+ACCT0038,Account 0038,Northeast Enterprise,Enterprise,Fintech,Cloud Advanced,Target,216827,0,92,67,76,Best Case,71,Watch
+ACCT0039,Account 0039,Financial Services,Strategic,Healthcare,Cloud Basic,Stage 1,256059,243791,71,60,64,Pipeline,97,Watch
+ACCT0040,Account 0040,Financial Services,Strategic,Gaming,Self-Hosted,Customer,549383,0,87,67,65,Pipeline,109,Watch
+ACCT0041,Account 0041,Financial Services,Strategic,Retail,Self-Hosted,Customer,900764,0,74,73,65,Closed,116,Yes
+ACCT0042,Account 0042,Financial Services,Strategic,Healthcare,Cloud Standard,Stage 1,405350,682871,77,80,61,Pipeline,74,Yes
+ACCT0043,Account 0043,Financial Services,Strategic,Logistics,BYOC Evaluation,Stage 1,458200,673453,52,75,64,Pipeline,63,Watch
+ACCT0044,Account 0044,Financial Services,Strategic,Fintech,Cloud Basic,Target,1241126,0,59,95,58,Best Case,84,Watch
+ACCT0045,Account 0045,Financial Services,Strategic,Healthcare,Cloud Advanced,Stage 3,482365,560622,86,90,49,Pipeline,89,Yes
+ACCT0046,Account 0046,Financial Services,Strategic,Logistics,Cloud Basic,Target,1124649,0,82,70,65,Renewal Risk,83,Yes
+ACCT0047,Account 0047,Financial Services,Strategic,Logistics,Cloud Advanced,Stage 2,769342,824075,55,77,74,Best Case,80,Watch
+ACCT0048,Account 0048,Financial Services,Strategic,Gaming,BYOC Evaluation,Stage 2,399963,639046,90,82,85,Best Case,87,Yes
+ACCT0049,Account 0049,Financial Services,Strategic,Media,Self-Hosted,Stage 2,142418,233981,66,71,69,Best Case,105,Yes
+ACCT0050,Account 0050,Financial Services,Strategic,Media,Cloud Basic,Engaged,600995,481851,95,68,84,Closed,110,Yes
+ACCT0051,Account 0051,Financial Services,Strategic,Cybersecurity,BYOC Evaluation,Engaged,480095,362691,60,67,43,Closed,66,Watch
+ACCT0052,Account 0052,Financial Services,Strategic,Cybersecurity,Self-Hosted,Stage 1,1049944,1612320,84,70,87,Pipeline,103,Yes
+ACCT0053,Account 0053,Financial Services,Strategic,Cybersecurity,Cloud Basic,Stage 3,1061281,966895,54,85,56,Best Case,116,Watch
+ACCT0054,Account 0054,Financial Services,Strategic,Media,Self-Hosted,Target,355068,0,77,91,77,Best Case,108,Yes
+ACCT0055,Account 0055,Financial Services,Strategic,Cybersecurity,Cloud Advanced,Customer,564792,0,83,86,85,Closed,115,Yes
+ACCT0056,Account 0056,Financial Services,Strategic,Cybersecurity,Cloud Basic,Stage 2,880608,869243,81,89,82,Commit,77,Yes
+ACCT0057,Account 0057,Financial Services,Strategic,Logistics,Cloud Standard,Engaged,486583,428678,82,63,50,Commit,66,Watch
+ACCT0058,Account 0058,Financial Services,Strategic,Logistics,Self-Hosted,Stage 1,494444,468832,77,84,45,Renewal Risk,99,Yes
+ACCT0059,Account 0059,Financial Services,Strategic,Fintech,Cloud Advanced,Customer,216141,0,96,94,85,Pipeline,86,Yes
+ACCT0060,Account 0060,Financial Services,Strategic,Healthcare,Self-Hosted,Commit,1190548,1882924,74,92,89,Pipeline,89,Yes
+ACCT0061,Account 0061,Financial Services,Strategic,Cybersecurity,Cloud Standard,Stage 1,536336,481658,90,83,88,Renewal Risk,96,Yes
+ACCT0062,Account 0062,Financial Services,Strategic,Logistics,Cloud Standard,Target,540161,0,84,59,47,Closed,73,Watch
+ACCT0063,Account 0063,Digital Native West,Enterprise,Media,Self-Hosted,Target,383636,0,61,87,62,Pipeline,115,Watch
+ACCT0064,Account 0064,Digital Native West,Enterprise,Media,Cloud Standard,Stage 1,703488,947811,78,59,89,Commit,111,Watch
+ACCT0065,Account 0065,Digital Native West,Enterprise,Gaming,Cloud Standard,Customer,183910,0,49,73,56,Pipeline,104,Watch
+ACCT0066,Account 0066,Digital Native West,Enterprise,Media,Cloud Standard,Target,852448,0,77,74,91,Best Case,109,Yes
+ACCT0067,Account 0067,Digital Native West,Enterprise,SaaS,BYOC Evaluation,Stage 3,648949,904908,58,77,48,Commit,86,Watch
+ACCT0068,Account 0068,Digital Native West,Enterprise,Healthcare,Cloud Basic,Stage 1,596611,1012262,52,95,86,Commit,81,Watch
+ACCT0069,Account 0069,Digital Native West,Enterprise,Logistics,Cloud Advanced,Commit,514239,385310,55,94,92,Pipeline,103,Watch
+ACCT0070,Account 0070,Digital Native West,Enterprise,Cybersecurity,Cloud Standard,Engaged,718963,1332199,79,64,69,Best Case,108,Watch
+ACCT0071,Account 0071,Digital Native West,Enterprise,Logistics,BYOC Evaluation,Stage 2,548523,702217,87,92,91,Pipeline,116,Yes
+ACCT0072,Account 0072,Digital Native West,Enterprise,Logistics,Cloud Advanced,Engaged,829716,1328020,65,86,57,Pipeline,116,Yes
+ACCT0073,Account 0073,Digital Native West,Enterprise,SaaS,BYOC Evaluation,Engaged,444071,459876,70,74,63,Pipeline,74,Yes
+ACCT0074,Account 0074,Digital Native West,Enterprise,Healthcare,Self-Hosted,Target,600601,0,79,93,90,Commit,93,Yes
+ACCT0075,Account 0075,Digital Native West,Enterprise,SaaS,BYOC Evaluation,Stage 1,152929,234003,66,72,67,Pipeline,97,Yes
+ACCT0076,Account 0076,Digital Native West,Enterprise,Cybersecurity,Cloud Advanced,Stage 2,408790,458733,95,93,63,Pipeline,76,Yes
+ACCT0077,Account 0077,Digital Native West,Enterprise,Gaming,Cloud Standard,Target,290352,0,55,92,90,Pipeline,92,Watch
+ACCT0078,Account 0078,Digital Native West,Enterprise,Retail,Cloud Standard,Engaged,507111,527192,96,91,80,Pipeline,85,Yes
+ACCT0079,Account 0079,Digital Native West,Enterprise,Fintech,Cloud Basic,Target,147403,0,82,66,59,Best Case,106,Watch
+ACCT0080,Account 0080,Digital Native West,Enterprise,SaaS,Self-Hosted,Customer,539680,0,96,89,55,Best Case,83,Yes
+ACCT0081,Account 0081,Digital Native West,Enterprise,Cybersecurity,Cloud Basic,Engaged,195537,152209,78,65,94,Best Case,105,Watch
+ACCT0082,Account 0082,Digital Native West,Enterprise,Healthcare,Cloud Basic,Target,266855,0,84,77,47,Best Case,88,Yes
+ACCT0083,Account 0083,Digital Native West,Enterprise,Cybersecurity,Cloud Advanced,Stage 2,660632,819591,62,91,66,Closed,89,Yes
+ACCT0084,Account 0084,Digital Native West,Enterprise,Healthcare,Cloud Advanced,Engaged,528086,501336,87,64,90,Commit,72,Watch
+ACCT0085,Account 0085,Digital Native West,Enterprise,Cybersecurity,Cloud Advanced,Engaged,483060,599286,58,58,68,Pipeline,80,Watch
+ACCT0086,Account 0086,Digital Native West,Enterprise,SaaS,BYOC Evaluation,Stage 3,587268,575587,77,62,85,Commit,74,Watch
+ACCT0087,Account 0087,Digital Native West,Enterprise,Retail,Cloud Basic,Stage 1,478428,809479,89,67,59,Pipeline,81,Watch
+ACCT0088,Account 0088,Digital Native West,Enterprise,SaaS,Self-Hosted,Stage 2,692655,874434,66,86,49,Renewal Risk,94,Yes
+ACCT0089,Account 0089,Digital Native West,Enterprise,SaaS,Cloud Basic,Stage 2,415602,657249,86,60,69,Pipeline,105,Watch
+ACCT0090,Account 0090,Digital Native West,Enterprise,Gaming,Self-Hosted,Commit,497781,372479,49,75,78,Best Case,90,Watch
+ACCT0091,Account 0091,Digital Native West,Enterprise,Retail,Self-Hosted,Customer,284620,0,85,85,86,Pipeline,83,Yes
+ACCT0092,Account 0092,Digital Native West,Enterprise,SaaS,Self-Hosted,Engaged,238773,365898,58,79,68,Closed,97,Watch
+ACCT0093,Account 0093,Digital Native West,Enterprise,Logistics,BYOC Evaluation,Target,226855,0,64,78,49,Closed,62,Yes
+ACCT0094,Account 0094,Digital Native West,Enterprise,Cybersecurity,Self-Hosted,Stage 2,477206,630928,74,61,54,Closed,75,Watch
+ACCT0095,Account 0095,Digital Native West,Enterprise,Fintech,BYOC Evaluation,Engaged,255995,328097,66,86,86,Closed,107,Yes
+ACCT0096,Account 0096,Digital Native West,Enterprise,Healthcare,Cloud Basic,Target,482338,0,83,84,47,Best Case,69,Yes
+ACCT0097,Account 0097,Digital Native West,Enterprise,Logistics,Self-Hosted,Stage 2,269595,416926,93,76,74,Renewal Risk,77,Yes
+ACCT0098,Account 0098,Digital Native West,Enterprise,Gaming,Cloud Basic,Stage 1,264199,421544,60,96,74,Pipeline,112,Watch
+ACCT0099,Account 0099,Digital Native West,Enterprise,SaaS,BYOC Evaluation,Commit,363095,255284,80,75,94,Best Case,104,Yes
+ACCT0100,Account 0100,Digital Native West,Enterprise,Logistics,Self-Hosted,Stage 1,266506,292871,82,88,64,Renewal Risk,117,Yes
+ACCT0101,Account 0101,Digital Native West,Enterprise,Logistics,Cloud Basic,Engaged,583067,1007083,84,82,56,Pipeline,92,Yes
+ACCT0102,Account 0102,Digital Native West,Enterprise,Fintech,Cloud Standard,Stage 3,680056,880261,72,99,51,Best Case,99,Yes
+ACCT0103,Account 0103,Digital Native West,Enterprise,Fintech,Cloud Standard,Engaged,235817,422710,76,64,75,Best Case,103,Watch
+ACCT0104,Account 0104,Digital Native West,Enterprise,Retail,Cloud Advanced,Customer,216488,0,64,79,80,Closed,116,Yes
+ACCT0105,Account 0105,Central Commercial,Mid-Market,Retail,Cloud Standard,Stage 2,387548,287979,88,89,76,Commit,80,Yes
+ACCT0106,Account 0106,Central Commercial,Mid-Market,Retail,Self-Hosted,Customer,278949,0,75,64,95,Pipeline,81,Watch
+ACCT0107,Account 0107,Central Commercial,Mid-Market,Logistics,Cloud Standard,Customer,85209,0,51,76,78,Pipeline,88,Watch
+ACCT0108,Account 0108,Central Commercial,Mid-Market,Logistics,BYOC Evaluation,Stage 2,296877,424947,58,69,47,Commit,93,Watch
+ACCT0109,Account 0109,Central Commercial,Mid-Market,SaaS,Cloud Basic,Customer,118032,0,77,98,84,Closed,91,Yes
+ACCT0110,Account 0110,Central Commercial,Mid-Market,SaaS,Self-Hosted,Customer,254691,0,58,62,77,Commit,91,Watch
+ACCT0111,Account 0111,Central Commercial,Mid-Market,Media,BYOC Evaluation,Commit,131659,129638,72,88,48,Pipeline,106,Yes
+ACCT0112,Account 0112,Central Commercial,Mid-Market,Fintech,BYOC Evaluation,Engaged,412207,292551,90,83,59,Commit,115,Yes
+ACCT0113,Account 0113,Central Commercial,Mid-Market,Healthcare,Cloud Standard,Customer,150598,0,62,96,77,Commit,105,Yes
+ACCT0114,Account 0114,Central Commercial,Mid-Market,Fintech,Cloud Advanced,Stage 3,286842,234234,91,66,82,Closed,64,Watch
+ACCT0115,Account 0115,Central Commercial,Mid-Market,Gaming,Cloud Standard,Stage 2,273645,437005,53,76,62,Pipeline,96,Watch
+ACCT0116,Account 0116,Central Commercial,Mid-Market,Cybersecurity,Cloud Advanced,Customer,168834,0,80,75,71,Commit,83,Yes
+ACCT0117,Account 0117,Central Commercial,Mid-Market,Logistics,BYOC Evaluation,Commit,194070,360931,52,67,90,Pipeline,112,Watch
+ACCT0118,Account 0118,Central Commercial,Mid-Market,SaaS,BYOC Evaluation,Stage 1,145802,219781,55,87,65,Best Case,102,Watch
+ACCT0119,Account 0119,Central Commercial,Mid-Market,Media,BYOC Evaluation,Customer,108186,0,62,88,94,Pipeline,66,Yes
+ACCT0120,Account 0120,Central Commercial,Mid-Market,Gaming,Cloud Basic,Stage 2,193025,229691,92,77,83,Renewal Risk,81,Yes
+ACCT0121,Account 0121,Central Commercial,Mid-Market,Cybersecurity,Cloud Advanced,Customer,110511,0,63,92,79,Commit,109,Yes
+ACCT0122,Account 0122,Central Commercial,Mid-Market,Cybersecurity,BYOC Evaluation,Stage 3,213254,316876,85,67,68,Best Case,79,Watch
+ACCT0123,Account 0123,Central Commercial,Mid-Market,Media,Cloud Basic,Target,169938,0,76,86,57,Renewal Risk,85,Yes
+ACCT0124,Account 0124,Central Commercial,Mid-Market,Retail,Self-Hosted,Stage 2,412078,424877,70,61,67,Pipeline,75,Watch
+ACCT0125,Account 0125,Central Commercial,Mid-Market,Gaming,BYOC Evaluation,Stage 2,229552,252556,49,61,92,Pipeline,115,Watch
+ACCT0126,Account 0126,Central Commercial,Mid-Market,Fintech,Cloud Advanced,Stage 3,133423,217379,61,72,63,Closed,71,Watch
+ACCT0127,Account 0127,Central Commercial,Mid-Market,Gaming,Cloud Basic,Customer,213261,0,59,65,56,Pipeline,112,Watch
+ACCT0128,Account 0128,Central Commercial,Mid-Market,Logistics,BYOC Evaluation,Engaged,159066,135542,59,74,45,Pipeline,66,Watch
+ACCT0129,Account 0129,Central Commercial,Mid-Market,Healthcare,BYOC Evaluation,Stage 1,290998,361537,80,95,48,Pipeline,112,Yes
+ACCT0130,Account 0130,Central Commercial,Mid-Market,Fintech,Self-Hosted,Customer,248589,0,67,87,56,Closed,89,Yes
+ACCT0131,Account 0131,Central Commercial,Mid-Market,Gaming,Cloud Basic,Stage 3,199781,217069,76,62,47,Pipeline,101,Watch
+ACCT0132,Account 0132,Central Commercial,Mid-Market,Cybersecurity,BYOC Evaluation,Stage 2,215526,288086,68,82,80,Best Case,68,Yes
+ACCT0133,Account 0133,Central Commercial,Mid-Market,Healthcare,Self-Hosted,Commit,110008,149787,89,99,91,Best Case,76,Yes
+ACCT0134,Account 0134,Central Commercial,Mid-Market,Logistics,Cloud Advanced,Stage 1,311931,253944,73,84,88,Commit,85,Yes
+ACCT0135,Account 0135,Central Commercial,Mid-Market,Retail,Self-Hosted,Customer,257760,0,78,62,60,Pipeline,109,Watch
+ACCT0136,Account 0136,Central Commercial,Mid-Market,Retail,Self-Hosted,Stage 1,114507,157335,51,95,77,Pipeline,104,Watch
+ACCT0137,Account 0137,Central Commercial,Mid-Market,SaaS,Cloud Advanced,Customer,182615,0,94,61,93,Pipeline,94,Watch
+ACCT0138,Account 0138,Central Commercial,Mid-Market,Media,Cloud Basic,Engaged,247893,425000,62,64,64,Closed,98,Watch
+ACCT0139,Account 0139,Central Commercial,Mid-Market,Fintech,BYOC Evaluation,Engaged,184146,278056,83,97,81,Renewal Risk,115,Yes
+ACCT0140,Account 0140,Central Commercial,Mid-Market,Gaming,Cloud Standard,Stage 3,76335,85589,65,77,63,Best Case,87,Yes
+ACCT0141,Account 0141,Central Commercial,Mid-Market,Healthcare,Self-Hosted,Target,276797,0,49,63,89,Best Case,83,Watch
+ACCT0142,Account 0142,Central Commercial,Mid-Market,Retail,Cloud Basic,Target,156307,0,68,94,80,Pipeline,110,Yes
+ACCT0143,Account 0143,Central Commercial,Mid-Market,Cybersecurity,Self-Hosted,Stage 2,253489,306422,65,86,84,Pipeline,110,Yes
+ACCT0144,Account 0144,Central Commercial,Mid-Market,Cybersecurity,BYOC Evaluation,Stage 1,163994,248317,55,76,85,Commit,64,Watch
+ACCT0145,Account 0145,Central Commercial,Mid-Market,Healthcare,Cloud Standard,Engaged,421146,447132,51,58,55,Closed,80,Watch
+ACCT0146,Account 0146,Central Commercial,Mid-Market,Healthcare,BYOC Evaluation,Engaged,59862,51183,95,85,53,Best Case,104,Yes
+ACCT0147,Account 0147,Central Commercial,Mid-Market,Retail,Cloud Advanced,Commit,96029,69380,95,60,69,Best Case,98,Watch
+ACCT0148,Account 0148,Central Commercial,Mid-Market,Media,Cloud Standard,Stage 1,242636,175918,66,65,67,Closed,101,Watch
+ACCT0149,Account 0149,Central Commercial,Mid-Market,Healthcare,Self-Hosted,Stage 1,258698,443249,71,63,69,Best Case,95,Watch
+ACCT0150,Account 0150,Central Commercial,Mid-Market,Media,Cloud Standard,Target,332820,0,95,79,56,Pipeline,102,Yes
+ACCT0151,Account 0151,Central Commercial,Mid-Market,Gaming,Cloud Standard,Target,205011,0,70,80,88,Pipeline,78,Yes
+ACCT0152,Account 0152,Central Commercial,Mid-Market,Cybersecurity,Self-Hosted,Engaged,231112,210907,96,99,46,Closed,110,Yes
+ACCT0153,Account 0153,Central Commercial,Mid-Market,Media,Cloud Advanced,Stage 2,255860,481998,84,99,82,Pipeline,66,Yes
+ACCT0154,Account 0154,Central Commercial,Mid-Market,Retail,Cloud Advanced,Stage 1,239910,269259,65,95,45,Best Case,64,Yes
+ACCT0155,Account 0155,Central Commercial,Mid-Market,Logistics,Self-Hosted,Target,313878,0,52,99,47,Best Case,112,Watch
+ACCT0156,Account 0156,Central Commercial,Mid-Market,Cybersecurity,BYOC Evaluation,Stage 3,82822,89931,84,99,54,Pipeline,65,Yes
+ACCT0157,Account 0157,Central Commercial,Mid-Market,Fintech,Cloud Standard,Stage 1,304662,449483,69,63,74,Commit,90,Watch
+ACCT0158,Account 0158,Central Commercial,Mid-Market,Media,BYOC Evaluation,Stage 2,233329,271805,71,81,60,Pipeline,102,Yes
+ACCT0159,Account 0159,Central Commercial,Mid-Market,SaaS,BYOC Evaluation,Stage 2,93678,109030,54,93,85,Closed,83,Watch
+ACCT0160,Account 0160,Central Commercial,Mid-Market,Logistics,Cloud Standard,Target,250109,0,70,77,83,Best Case,67,Yes
+ACCT0161,Account 0161,Central Commercial,Mid-Market,Retail,Self-Hosted,Engaged,171397,264534,69,66,84,Best Case,63,Watch
+ACCT0162,Account 0162,Central Commercial,Mid-Market,Healthcare,Cloud Standard,Stage 1,127299,163392,61,79,91,Pipeline,80,Watch
+ACCT0163,Account 0163,Central Commercial,Mid-Market,Gaming,BYOC Evaluation,Commit,105956,158332,82,91,44,Pipeline,72,Yes
+ACCT0164,Account 0164,Central Commercial,Mid-Market,Logistics,Cloud Advanced,Engaged,259792,318299,87,68,88,Commit,77,Yes
+ACCT0165,Account 0165,Central Commercial,Mid-Market,Healthcare,Cloud Advanced,Customer,233567,0,96,86,89,Renewal Risk,112,Yes
+ACCT0166,Account 0166,Central Commercial,Mid-Market,SaaS,Self-Hosted,Stage 1,315450,395580,71,94,70,Best Case,88,Yes
+ACCT0167,Account 0167,Central Commercial,Mid-Market,Cybersecurity,Cloud Advanced,Customer,307242,0,86,66,58,Best Case,68,Watch
+ACCT0168,Account 0168,Central Commercial,Mid-Market,SaaS,Self-Hosted,Stage 3,206614,333834,55,76,47,Renewal Risk,71,Watch
+ACCT0169,Account 0169,Healthcare and Public,Enterprise,Logistics,Cloud Basic,Commit,229579,417045,62,86,64,Best Case,85,Yes
+ACCT0170,Account 0170,Healthcare and Public,Enterprise,Retail,Cloud Advanced,Engaged,981991,1062929,71,72,43,Closed,70,Yes
+ACCT0171,Account 0171,Healthcare and Public,Enterprise,Cybersecurity,Self-Hosted,Target,803135,0,78,66,90,Best Case,67,Watch
+ACCT0172,Account 0172,Healthcare and Public,Enterprise,Logistics,Cloud Basic,Target,301766,0,57,93,88,Closed,77,Watch
+ACCT0173,Account 0173,Healthcare and Public,Enterprise,Retail,Cloud Basic,Engaged,191897,277746,74,98,92,Closed,93,Yes
+ACCT0174,Account 0174,Healthcare and Public,Enterprise,SaaS,Self-Hosted,Stage 2,151538,236740,80,94,57,Pipeline,84,Yes
+ACCT0175,Account 0175,Healthcare and Public,Enterprise,Retail,BYOC Evaluation,Engaged,403869,755067,90,63,75,Best Case,112,Watch
+ACCT0176,Account 0176,Healthcare and Public,Enterprise,Logistics,Cloud Advanced,Customer,484414,0,72,88,95,Pipeline,63,Yes
+ACCT0177,Account 0177,Healthcare and Public,Enterprise,Media,Cloud Standard,Engaged,210399,342067,63,98,48,Pipeline,96,Yes
+ACCT0178,Account 0178,Healthcare and Public,Enterprise,Gaming,Cloud Standard,Engaged,543122,692066,91,87,86,Pipeline,111,Yes
+ACCT0179,Account 0179,Healthcare and Public,Enterprise,Fintech,Cloud Advanced,Customer,180187,0,60,60,67,Renewal Risk,94,Watch
+ACCT0180,Account 0180,Healthcare and Public,Enterprise,Healthcare,Cloud Advanced,Stage 1,683934,1096995,78,74,44,Pipeline,111,Yes
+ACCT0181,Account 0181,Healthcare and Public,Enterprise,Media,Self-Hosted,Target,552275,0,65,65,93,Closed,109,Watch
+ACCT0182,Account 0182,Healthcare and Public,Enterprise,Media,BYOC Evaluation,Stage 1,869167,1330244,69,69,73,Pipeline,67,Yes
+ACCT0183,Account 0183,Healthcare and Public,Enterprise,Retail,Cloud Basic,Stage 3,219791,231334,86,69,76,Pipeline,80,Yes
+ACCT0184,Account 0184,Healthcare and Public,Enterprise,Cybersecurity,Cloud Basic,Engaged,515706,635705,75,68,86,Commit,84,Yes
+ACCT0185,Account 0185,Healthcare and Public,Enterprise,Logistics,Cloud Advanced,Stage 2,414029,623287,88,61,46,Best Case,109,Watch
+ACCT0186,Account 0186,Healthcare and Public,Enterprise,Fintech,Cloud Standard,Stage 3,861907,1411437,57,96,85,Pipeline,111,Watch
+ACCT0187,Account 0187,Healthcare and Public,Enterprise,Cybersecurity,Cloud Advanced,Stage 2,374682,331266,84,60,80,Pipeline,110,Watch
+ACCT0188,Account 0188,Healthcare and Public,Enterprise,SaaS,Cloud Standard,Target,260068,0,71,83,62,Renewal Risk,63,Yes
+ACCT0189,Account 0189,Healthcare and Public,Enterprise,SaaS,Self-Hosted,Stage 3,450838,457209,72,93,49,Pipeline,101,Yes
+ACCT0190,Account 0190,Healthcare and Public,Enterprise,Retail,Self-Hosted,Engaged,801801,691854,79,70,49,Pipeline,107,Yes
+ACCT0191,Account 0191,Healthcare and Public,Enterprise,Retail,BYOC Evaluation,Stage 1,226653,253151,91,78,84,Best Case,81,Yes
+ACCT0192,Account 0192,Healthcare and Public,Enterprise,Healthcare,Cloud Basic,Commit,594102,981716,92,98,53,Renewal Risk,112,Yes
+ACCT0193,Account 0193,Healthcare and Public,Enterprise,Media,Self-Hosted,Target,660295,0,49,81,77,Closed,97,Watch
+ACCT0194,Account 0194,Healthcare and Public,Enterprise,Cybersecurity,BYOC Evaluation,Target,758871,0,52,77,67,Best Case,88,Watch
+ACCT0195,Account 0195,Healthcare and Public,Enterprise,Media,Cloud Standard,Commit,215604,267343,68,99,46,Closed,111,Yes
+ACCT0196,Account 0196,Expansion Portfolio,Customer Growth,Fintech,Cloud Basic,Stage 2,383812,688120,56,85,74,Best Case,81,Watch
+ACCT0197,Account 0197,Expansion Portfolio,Customer Growth,SaaS,Cloud Basic,Target,268759,0,93,72,64,Pipeline,102,Yes
+ACCT0198,Account 0198,Expansion Portfolio,Customer Growth,Retail,BYOC Evaluation,Customer,250458,0,88,77,89,Commit,99,Yes
+ACCT0199,Account 0199,Expansion Portfolio,Customer Growth,Media,BYOC Evaluation,Customer,204616,0,90,97,93,Pipeline,117,Yes
+ACCT0200,Account 0200,Expansion Portfolio,Customer Growth,Healthcare,BYOC Evaluation,Target,143780,0,89,94,58,Best Case,102,Yes
+ACCT0201,Account 0201,Expansion Portfolio,Customer Growth,SaaS,Self-Hosted,Target,580180,0,82,76,83,Pipeline,113,Yes
+ACCT0202,Account 0202,Expansion Portfolio,Customer Growth,Cybersecurity,Self-Hosted,Stage 3,259105,318058,52,61,52,Pipeline,100,Watch
+ACCT0203,Account 0203,Expansion Portfolio,Customer Growth,Gaming,Cloud Advanced,Target,555383,0,68,80,67,Best Case,68,Yes
+ACCT0204,Account 0204,Expansion Portfolio,Customer Growth,Fintech,Cloud Advanced,Engaged,327616,284716,65,86,57,Renewal Risk,117,Yes
+ACCT0205,Account 0205,Expansion Portfolio,Customer Growth,Healthcare,Cloud Standard,Stage 2,240775,376897,58,78,78,Best Case,94,Watch
+ACCT0206,Account 0206,Expansion Portfolio,Customer Growth,Cybersecurity,Cloud Standard,Stage 1,570917,1047221,79,59,47,Pipeline,84,Watch
+ACCT0207,Account 0207,Expansion Portfolio,Customer Growth,Cybersecurity,Cloud Advanced,Target,253042,0,86,99,85,Best Case,116,Yes
+ACCT0208,Account 0208,Expansion Portfolio,Customer Growth,Logistics,Cloud Advanced,Target,195564,0,64,81,90,Pipeline,65,Yes
+ACCT0209,Account 0209,Expansion Portfolio,Customer Growth,Cybersecurity,BYOC Evaluation,Stage 2,221065,257236,83,76,46,Pipeline,101,Yes
+ACCT0210,Account 0210,Expansion Portfolio,Customer Growth,Media,BYOC Evaluation,Stage 3,188349,311506,54,83,65,Renewal Risk,110,Watch
+ACCT0211,Account 0211,Expansion Portfolio,Customer Growth,Fintech,Cloud Basic,Target,391145,0,73,90,44,Pipeline,83,Yes
+ACCT0212,Account 0212,Expansion Portfolio,Customer Growth,Media,Cloud Standard,Commit,351221,304768,57,96,74,Best Case,101,Watch
+ACCT0213,Account 0213,Expansion Portfolio,Customer Growth,SaaS,Self-Hosted,Stage 3,259788,347806,69,90,74,Closed,85,Yes
+ACCT0214,Account 0214,Expansion Portfolio,Customer Growth,Fintech,BYOC Evaluation,Engaged,183731,304277,74,95,61,Best Case,103,Yes
+ACCT0215,Account 0215,Expansion Portfolio,Customer Growth,Cybersecurity,Cloud Standard,Stage 3,491209,374117,84,72,88,Best Case,108,Yes
+ACCT0216,Account 0216,Expansion Portfolio,Customer Growth,Retail,Cloud Standard,Stage 2,538622,747114,57,73,44,Pipeline,82,Watch
+ACCT0217,Account 0217,Expansion Portfolio,Customer Growth,Cybersecurity,Cloud Basic,Stage 1,304884,496951,61,84,74,Commit,95,Watch
+ACCT0218,Account 0218,Expansion Portfolio,Customer Growth,Gaming,Self-Hosted,Engaged,269683,310726,90,88,75,Renewal Risk,83,Yes
+ACCT0219,Account 0219,Expansion Portfolio,Customer Growth,Cybersecurity,Cloud Standard,Stage 2,430041,658813,94,99,93,Renewal Risk,79,Yes
+ACCT0220,Account 0220,Expansion Portfolio,Customer Growth,Cybersecurity,Cloud Advanced,Stage 2,232260,220353,67,76,87,Best Case,97,Yes
+ACCT0221,Account 0221,Expansion Portfolio,Customer Growth,Logistics,Self-Hosted,Customer,504429,0,65,76,91,Closed,111,Yes
+ACCT0222,Account 0222,Expansion Portfolio,Customer Growth,SaaS,Self-Hosted,Commit,256463,463894,66,63,64,Pipeline,114,Watch
+ACCT0223,Account 0223,Expansion Portfolio,Customer Growth,Healthcare,Cloud Standard,Stage 2,627465,521469,92,75,50,Pipeline,95,Yes
+ACCT0224,Account 0224,Expansion Portfolio,Customer Growth,Retail,Cloud Standard,Engaged,235145,367021,54,84,63,Pipeline,97,Watch
+ACCT0225,Account 0225,Expansion Portfolio,Customer Growth,Healthcare,Cloud Advanced,Customer,206224,0,89,88,96,Pipeline,103,Yes
+ACCT0226,Account 0226,Expansion Portfolio,Customer Growth,Fintech,Cloud Standard,Target,486253,0,89,94,56,Best Case,115,Yes
+ACCT0227,Account 0227,Expansion Portfolio,Customer Growth,SaaS,Cloud Basic,Target,611768,0,73,89,53,Pipeline,98,Yes
+ACCT0228,Account 0228,Expansion Portfolio,Customer Growth,Cybersecurity,Cloud Standard,Stage 2,621945,1173561,69,76,71,Closed,91,Yes
+ACCT0229,Account 0229,Expansion Portfolio,Customer Growth,SaaS,Cloud Standard,Engaged,514012,642873,69,68,88,Pipeline,83,Yes
+ACCT0230,Account 0230,Expansion Portfolio,Customer Growth,Logistics,Self-Hosted,Commit,374025,536032,96,70,53,Best Case,67,Yes
+ACCT0231,Account 0231,Expansion Portfolio,Customer Growth,Fintech,Cloud Advanced,Stage 1,176198,321207,56,88,62,Best Case,90,Watch
+ACCT0232,Account 0232,Expansion Portfolio,Customer Growth,SaaS,Cloud Advanced,Stage 3,655695,909745,67,95,88,Commit,65,Yes
+ACCT0233,Account 0233,Expansion Portfolio,Customer Growth,SaaS,Cloud Basic,Stage 2,327148,426282,58,83,85,Commit,80,Watch
+ACCT0234,Account 0234,Expansion Portfolio,Customer Growth,Media,Self-Hosted,Stage 1,230811,287584,56,88,51,Commit,92,Watch
+ACCT0235,Account 0235,Expansion Portfolio,Customer Growth,Retail,BYOC Evaluation,Stage 3,509098,817452,61,73,85,Best Case,107,Watch
+ACCT0236,Account 0236,Expansion Portfolio,Customer Growth,Healthcare,BYOC Evaluation,Stage 1,609107,1086322,55,61,77,Best Case,72,Watch
+ACCT0237,Account 0237,Expansion Portfolio,Customer Growth,Retail,BYOC Evaluation,Engaged,351684,492279,55,71,87,Best Case,65,Watch
+ACCT0238,Account 0238,Expansion Portfolio,Customer Growth,SaaS,Cloud Basic,Stage 1,348440,477557,77,94,45,Best Case,114,Yes
+ACCT0239,Account 0239,Expansion Portfolio,Customer Growth,Media,Cloud Basic,Target,229744,0,52,60,69,Best Case,65,Watch
+ACCT0240,Account 0240,Expansion Portfolio,Customer Growth,Gaming,Cloud Standard,Customer,160560,0,78,60,81,Closed,108,Watch
+ACCT0241,Account 0241,Expansion Portfolio,Customer Growth,Gaming,Cloud Advanced,Stage 2,307965,354398,72,86,66,Pipeline,96,Yes
+ACCT0242,Account 0242,Expansion Portfolio,Customer Growth,SaaS,Self-Hosted,Stage 1,192474,139983,62,58,90,Commit,96,Watch
+ACCT0243,Account 0243,Expansion Portfolio,Customer Growth,SaaS,Cloud Standard,Stage 1,291104,324695,62,73,71,Renewal Risk,108,Yes
+ACCT0244,Account 0244,Expansion Portfolio,Customer Growth,Fintech,Cloud Standard,Stage 3,132347,214305,90,84,81,Pipeline,68,Yes
+ACCT0245,Account 0245,Expansion Portfolio,Customer Growth,Logistics,Self-Hosted,Stage 2,318979,506746,91,61,57,Pipeline,75,Watch
+ACCT0246,Account 0246,Expansion Portfolio,Customer Growth,Media,BYOC Evaluation,Stage 3,491143,481808,56,90,60,Best Case,105,Watch

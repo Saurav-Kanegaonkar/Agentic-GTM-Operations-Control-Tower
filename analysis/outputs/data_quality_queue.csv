@@ -1,0 +1,15 @@
+workflow_id,source_table,field_group,freshness_hours,completeness_pct,definition_owner,launch_blocker
+WF03,Contacts,manager note,11,49,Marketing Ops,Yes
+WF06,Opportunities,contact role,18,54,Sales,Yes
+WF06,Opportunities,account fit,19,71,CS Ops,Yes
+WF06,Opportunities,usage signal,33,71,CS Ops,Yes
+WF06,Opportunities,opportunity stage,37,67,Sales,Yes
+WF07,Customers,usage signal,29,61,Sales,Yes
+WF07,Customers,account fit,40,45,CS Ops,Yes
+WF07,Customers,manager note,58,47,RevOps,Yes
+WF08,Customers,manager note,36,66,RevOps,Yes
+WF08,Customers,contact role,46,59,Data Engineering,Yes
+WF10,Territories,manager note,21,42,Data Engineering,Yes
+WF12,Metrics,account fit,5,59,Sales,Yes
+WF12,Metrics,manager note,14,47,CS Ops,Yes
+WF12,Metrics,contact role,28,52,CS Ops,Yes

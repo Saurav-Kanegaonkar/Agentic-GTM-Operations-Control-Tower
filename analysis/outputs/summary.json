@@ -1,0 +1,16 @@
+{
+  "random_seed": 42,
+  "account_count": 246,
+  "workflow_count": 12,
+  "workflow_run_rows": 144,
+  "pipeline_snapshot_rows": 96,
+  "data_quality_checks": 60,
+  "launch_blockers": 14,
+  "top_workflow": "Renewal risk intervention queue",
+  "top_workflow_score": 62.2,
+  "deploy_next_count": 1,
+  "modeled_annualized_revenue_impact_usd": 5229246,
+  "modeled_releasable_hours_per_week": 717,
+  "average_data_readiness_pct": 70.7,
+  "average_pipeline_coverage": 2.49
+}

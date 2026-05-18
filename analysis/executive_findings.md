@@ -1,15 +1,17 @@
 # Executive Findings
 
-## What I analyzed
+## Summary
 
-I joined 5,040 daily metric rows, 760 source events, and 220 action candidates for agentic GTM operations analytics.
+The model evaluates 12 AI-assisted GTM workflows across 246 synthetic accounts, 96 territory pipeline snapshots, 144 workflow telemetry rows, and 60 data quality checks.
 
 ## Findings
 
-- The highest-priority revenue workflow is REV008 with a priority score of 94.31.
-- The top queue combines 50.7 average risk with 80.9 quality score and $794,822 estimated impact.
-- The strongest use case is turning repeated stakeholder questions into a ranked operating digest.
+- The total modeled annualized revenue impact across workflow candidates is $5.2M.
+- One workflow is ready to deploy next because it combines high confidence, strong guardrails, clean source readiness, and measurable revenue impact.
+- Several higher-upside workflows should remain in guarded pilots because data readiness or guardrail quality is not yet strong enough for recurring executive use.
+- Territory coverage averages 2.49x pipeline coverage, but coverage quality varies by segment and should be reviewed with capacity load before adding more automation.
+- The data quality queue contains 14 launch blockers, mostly tied to source completeness and freshness.
 
 ## Recommendation
 
-Prioritize the top queue before scaling more dashboards. The project should help leaders decide which revenue workflow risks need action, validation, or monitoring.
+Deploy the pipeline inspection assistant first, keep customer growth workflows in guarded pilots, and assign named owners to the data quality blockers before scaling account prioritization or personalized outreach automation.

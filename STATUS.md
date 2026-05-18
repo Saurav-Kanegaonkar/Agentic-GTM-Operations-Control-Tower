@@ -1,7 +1,7 @@
 # Status
 
-- Project: Agentic GTM Operations Control Tower
-- GitHub: https://github.com/Saurav-Kanegaonkar/Agentic-GTM-Operations-Control-Tower
-- Status: complete
-- Resume Link Ready: Yes
-- Last update: Created to locked pipeline standards with multiple data sources, analysis artifacts, scripts, screenshot, and distinct artifact framing.
+- Status: upgraded through the Portfolio Artifact Upgrade Workflow.
+- Artifact type: GTM AI workflow operating system with financial modeling, territory planning, and data quality controls.
+- Data: deterministic synthetic GTM operations data generated with random seed `42`.
+- Public README: written in company-domain language without naming the target company.
+- Current linkability: ready after screenshots are regenerated and changes are pushed.

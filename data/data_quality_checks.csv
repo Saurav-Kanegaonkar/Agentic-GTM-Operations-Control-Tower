@@ -1,0 +1,61 @@
+workflow_id,source_table,field_group,freshness_hours,completeness_pct,definition_owner,launch_blocker
+WF01,Accounts,account fit,62,75,Marketing Ops,No
+WF01,Accounts,opportunity stage,28,62,Marketing Ops,No
+WF01,Accounts,contact role,54,52,Data Engineering,No
+WF01,Accounts,usage signal,30,74,Sales,No
+WF01,Accounts,manager note,4,59,Data Engineering,No
+WF02,Accounts,account fit,9,82,RevOps,No
+WF02,Accounts,opportunity stage,23,64,CS Ops,No
+WF02,Accounts,contact role,57,82,Marketing Ops,No
+WF02,Accounts,usage signal,14,78,RevOps,No
+WF02,Accounts,manager note,31,68,Data Engineering,No
+WF03,Contacts,account fit,33,56,Data Engineering,No
+WF03,Contacts,opportunity stage,50,43,Sales,No
+WF03,Contacts,contact role,36,53,Sales,No
+WF03,Contacts,usage signal,57,46,CS Ops,No
+WF03,Contacts,manager note,11,49,Marketing Ops,Yes
+WF04,Opportunities,account fit,44,92,CS Ops,No
+WF04,Opportunities,opportunity stage,15,67,RevOps,No
+WF04,Opportunities,contact role,35,74,Data Engineering,No
+WF04,Opportunities,usage signal,68,84,Data Engineering,No
+WF04,Opportunities,manager note,30,81,Marketing Ops,No
+WF05,Opportunities,account fit,16,84,Marketing Ops,No
+WF05,Opportunities,opportunity stage,20,95,CS Ops,No
+WF05,Opportunities,contact role,55,98,Sales,No
+WF05,Opportunities,usage signal,51,92,Sales,No
+WF05,Opportunities,manager note,64,99,Data Engineering,No
+WF06,Opportunities,account fit,19,71,CS Ops,Yes
+WF06,Opportunities,opportunity stage,37,67,Sales,Yes
+WF06,Opportunities,contact role,18,54,Sales,Yes
+WF06,Opportunities,usage signal,33,71,CS Ops,Yes
+WF06,Opportunities,manager note,36,67,CS Ops,No
+WF07,Customers,account fit,40,45,CS Ops,Yes
+WF07,Customers,opportunity stage,19,61,Sales,No
+WF07,Customers,contact role,3,60,Sales,No
+WF07,Customers,usage signal,29,61,Sales,Yes
+WF07,Customers,manager note,58,47,RevOps,Yes
+WF08,Customers,account fit,9,52,Sales,No
+WF08,Customers,opportunity stage,19,65,RevOps,No
+WF08,Customers,contact role,46,59,Data Engineering,Yes
+WF08,Customers,usage signal,35,48,Marketing Ops,No
+WF08,Customers,manager note,36,66,RevOps,Yes
+WF09,Territories,account fit,15,69,Data Engineering,No
+WF09,Territories,opportunity stage,32,76,CS Ops,No
+WF09,Territories,contact role,9,67,Marketing Ops,No
+WF09,Territories,usage signal,13,64,Sales,No
+WF09,Territories,manager note,68,76,Marketing Ops,No
+WF10,Territories,account fit,8,46,Data Engineering,No
+WF10,Territories,opportunity stage,52,56,RevOps,No
+WF10,Territories,contact role,56,46,Marketing Ops,No
+WF10,Territories,usage signal,25,49,Marketing Ops,No
+WF10,Territories,manager note,21,42,Data Engineering,Yes
+WF11,Source Tables,account fit,9,54,Sales,No
+WF11,Source Tables,opportunity stage,20,78,RevOps,No
+WF11,Source Tables,contact role,69,65,RevOps,No
+WF11,Source Tables,usage signal,49,76,CS Ops,No
+WF11,Source Tables,manager note,14,64,Marketing Ops,No
+WF12,Metrics,account fit,5,59,Sales,Yes
+WF12,Metrics,opportunity stage,57,51,RevOps,No
+WF12,Metrics,contact role,28,52,CS Ops,Yes
+WF12,Metrics,usage signal,71,54,Marketing Ops,No
+WF12,Metrics,manager note,14,47,CS Ops,Yes

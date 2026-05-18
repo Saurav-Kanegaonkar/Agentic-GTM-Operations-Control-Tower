@@ -6,49 +6,151 @@
   <title>Agentic GTM Operations Control Tower</title>
   <link rel="stylesheet" href="src/styles.css">
 </head>
-<body style="--accent:#dc2626;--bg:#fff1f2">
-  <main class="shell">
-    <header class="hero">
-      <div>
-        <p class="eyebrow">Ops Console / agentic GTM operations analytics</p>
+<body>
+  <header class="topbar">
+    <a href="#executive">Executive</a>
+    <a href="#workflow-lab">Workflow Lab</a>
+    <a href="#capacity">Capacity</a>
+    <a href="#data-trust">Data Trust</a>
+  </header>
+
+  <main>
+    <section class="hero" id="executive">
+      <div class="hero-copy">
+        <p class="eyebrow">GTM Operations Artifact</p>
         <h1>Agentic GTM Operations Control Tower</h1>
+        <p class="lede">A decision system for prioritizing AI-assisted revenue workflows across pipeline creation, deal acceleration, forecasting, territory planning, and customer expansion.</p>
       </div>
-      <aside>
-        <b>Purpose</b>
-        <span>Turn messy revenue workflow-level signals into a ranked operating artifact with recommendations a stakeholder can act on.</span>
-      </aside>
-    </header>
-    <section class="metrics">
-      <article><span>Modeled rows</span><strong>6.0K+</strong><em>source-style</em></article>
-      <article><span>Ranked queue</span><strong>25</strong><em>revenue workflows</em></article>
-      <article><span>Action pool</span><strong>220</strong><em>candidates</em></article>
-      <article><span>Review time</span><strong>-6 hrs</strong><em>weekly</em></article>
+      <div class="hero-panel" aria-label="Executive decision memo">
+        <span class="label">This week</span>
+        <strong id="hero-decision">Loading operating recommendation</strong>
+        <p id="hero-context">Reading the workflow scorecard and data quality queue.</p>
+      </div>
     </section>
-    <section class="main-grid">
-      <article class="panel lead">
-        <p class="eyebrow">Launch blockers</p>
-        <h2>Priority queue</h2>
-        <table>
-          <thead><tr><th>revenue workflow</th><th>Signal</th><th>Risk</th><th>Next move</th></tr></thead>
-          <tbody>
-            <tr><td>Segment A</td><td>Feedback loop</td><td>High</td><td>Escalate with source check</td></tr>
-            <tr><td>Segment B</td><td>Execution queue</td><td>Medium</td><td>Test with clear owner</td></tr>
-            <tr><td>Segment C</td><td>Quality gap</td><td>Watch</td><td>Document metric definition</td></tr>
-          </tbody>
-        </table>
+
+    <section class="metric-strip" aria-label="Operating summary">
+      <article>
+        <span>Modeled impact</span>
+        <strong id="metric-impact">$0</strong>
+        <em>annualized revenue</em>
       </article>
-      <article class="panel narrative">
-        <p class="eyebrow">What the analysis says</p>
-        <h2>Recommendations over screenshots</h2>
-        <p>The artifact is built around decisions, not dashboard decoration: each source table feeds a ranked queue, and each queue item resolves into a recommendation.</p>
-        <p>The strongest opportunities appear where performance upside, measurement quality, and operating readiness overlap.</p>
+      <article>
+        <span>AI workflows</span>
+        <strong id="metric-workflows">0</strong>
+        <em>ranked candidates</em>
+      </article>
+      <article>
+        <span>Hours released</span>
+        <strong id="metric-hours">0</strong>
+        <em>per week</em>
+      </article>
+      <article>
+        <span>Launch blockers</span>
+        <strong id="metric-blockers">0</strong>
+        <em>source controls</em>
       </article>
     </section>
-    <section class="recommendations">
-      <article><b>01</b><h3>Validate</h3><p>Confirm source definitions before scaling the insight into recurring reporting.</p></article>
-      <article><b>02</b><h3>Prioritize</h3><p>Move the highest-value revenue workflow segment into the next operating review.</p></article>
-      <article><b>03</b><h3>Automate</h3><p>Convert the queue into a stakeholder-ready digest for repeated decisions.</p></article>
+
+    <section class="surface executive-grid">
+      <div class="section-heading">
+        <p class="eyebrow">Leadership Cockpit</p>
+        <h2>Where revenue leaders should place operating attention</h2>
+      </div>
+      <article class="panel wide">
+        <div class="panel-title">
+          <h3>Workflow priority queue</h3>
+          <span>impact, confidence, readiness, adoption</span>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Workflow</th>
+                <th>Motion</th>
+                <th>Score</th>
+                <th>Impact</th>
+                <th>Decision</th>
+              </tr>
+            </thead>
+            <tbody id="priority-table"></tbody>
+          </table>
+        </div>
+      </article>
+      <article class="panel">
+        <div class="panel-title">
+          <h3>Impact model</h3>
+          <span>financial sizing</span>
+        </div>
+        <div id="impact-bars" class="bar-list"></div>
+      </article>
+    </section>
+
+    <section class="surface" id="workflow-lab">
+      <div class="section-heading">
+        <p class="eyebrow">Workflow Deployment Lab</p>
+        <h2>Which agentic workflows can move from idea to operating cadence</h2>
+      </div>
+      <div id="workflow-cards" class="workflow-grid"></div>
+    </section>
+
+    <section class="surface capacity-grid" id="capacity">
+      <div class="section-heading">
+        <p class="eyebrow">Territory And Capacity Planner</p>
+        <h2>Where automation changes coverage math</h2>
+      </div>
+      <article class="panel">
+        <div class="panel-title">
+          <h3>Coverage by territory</h3>
+          <span>pipeline coverage versus quota</span>
+        </div>
+        <div id="coverage-bars" class="bar-list"></div>
+      </article>
+      <article class="panel">
+        <div class="panel-title">
+          <h3>Capacity recommendations</h3>
+          <span>quota load and hours released</span>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Territory</th>
+                <th>Load</th>
+                <th>Hours</th>
+                <th>Recommendation</th>
+              </tr>
+            </thead>
+            <tbody id="capacity-table"></tbody>
+          </table>
+        </div>
+      </article>
+    </section>
+
+    <section class="surface data-grid" id="data-trust">
+      <div class="section-heading">
+        <p class="eyebrow">Data Trust Console</p>
+        <h2>Controls that decide whether an AI workflow is safe to scale</h2>
+      </div>
+      <article class="panel">
+        <div class="panel-title">
+          <h3>Launch blockers</h3>
+          <span>freshness, completeness, ownership</span>
+        </div>
+        <div id="blocker-list" class="blocker-list"></div>
+      </article>
+      <article class="panel">
+        <div class="panel-title">
+          <h3>Operating thesis</h3>
+          <span>what the model is saying</span>
+        </div>
+        <div class="memo">
+          <p>The first deployment should be a workflow with strong confidence, clean source ownership, and a measurable revenue motion. Higher upside workflows remain valuable, but the control tower separates attractive pilots from workflows that are ready for a recurring operating cadence.</p>
+          <p>That distinction matters because the role is not to recommend more automation. It is to ship automation that leaders can trust, measure, and keep using.</p>
+        </div>
+      </article>
     </section>
   </main>
+
+  <script type="module" src="src/app.js"></script>
 </body>
 </html>

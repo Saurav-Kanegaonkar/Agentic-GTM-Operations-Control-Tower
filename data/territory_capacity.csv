@@ -1,0 +1,7 @@
+territory,segment,sales_reps,named_accounts,annual_quota_usd,open_pipeline_usd,pipeline_coverage,capacity_load_pct,weekly_admin_hours_releasable,modeled_productivity_gain_usd,planning_recommendation
+Northeast Enterprise,Enterprise,7,38,12800000,35965206,2.81,81,172,147020,Monitor
+Financial Services,Strategic,5,24,11200000,24262953,2.17,106,204,319266,Add coverage
+Digital Native West,Enterprise,6,42,9800000,27024758,2.76,103,261,431544,Shift automation here
+Central Commercial,Mid-Market,8,64,7600000,22115479,2.91,87,160,308479,Monitor
+Healthcare and Public,Enterprise,4,27,7200000,12307648,1.71,109,131,238741,Add coverage
+Expansion Portfolio,Customer Growth,6,51,10400000,27049051,2.6,106,249,437820,Shift automation here

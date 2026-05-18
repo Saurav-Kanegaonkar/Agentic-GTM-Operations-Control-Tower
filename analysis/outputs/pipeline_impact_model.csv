@@ -1,0 +1,13 @@
+workflow_id,workflow_name,motion,annualized_revenue_impact_usd,pipeline_influence_usd,expected_lift_pct,payback_multiple,recommended_decision
+WF08,Renewal risk intervention queue,Customer Growth,954179,11497242,12.0,15.0,Pilot with guardrails
+WF04,Pipeline inspection assistant,Deal Acceleration,645662,6575710,13.0,11.8,Deploy next
+WF07,Expansion health scoring,Customer Growth,866965,8882111,14.0,13.1,Pilot with guardrails
+WF02,Technical trigger enrichment,Pipeline Creation,390102,5329263,15.0,8.8,Pilot with guardrails
+WF03,Personalized enterprise outreach,Pipeline Creation,566689,7604527,18.0,8.6,Pilot with guardrails
+WF01,Agentic account prioritization,Pipeline Creation,311749,4269534,19.0,5.0,Pilot with guardrails
+WF05,Mutual action plan risk reader,Deal Acceleration,331208,5476329,10.0,5.0,Pilot with guardrails
+WF11,Data quality triage copilot,Governance,311043,6781859,7.0,8.9,Fix data first
+WF09,Territory whitespace recommender,Planning,279909,4677629,11.0,2.2,Fix data first
+WF06,Forecast commit anomaly review,Forecasting,231065,4929702,9.0,6.1,Fix data first
+WF10,Rep capacity relief planner,Planning,142701,3417165,8.0,1.6,Fix data first
+WF12,Executive narrative generator,Leadership Cadence,197974,8438798,5.0,5.3,Fix data first

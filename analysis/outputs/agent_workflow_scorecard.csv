@@ -1,0 +1,13 @@
+workflow_id,workflow_name,motion,business_owner,primary_source,accounts_in_scope,baseline_conversion_pct,expected_lift_pct,adoption_pct,data_readiness_pct,guardrail_score,model_confidence_pct,weekly_hours_saved,pipeline_influence_usd,annualized_revenue_impact_usd,deployment_effort_weeks,payback_multiple,priority_score,recommended_decision
+WF08,Renewal risk intervention queue,Customer Growth,Customer Success,Customers,55,8.0,12.0,91,61,92,76,58,11497242,954179,3,15.0,62.2,Pilot with guardrails
+WF04,Pipeline inspection assistant,Deal Acceleration,Revenue Operations,Opportunities,130,9.0,13.0,83,85,93,91,39,6575710,645662,3,11.8,61.7,Deploy next
+WF07,Expansion health scoring,Customer Growth,Customer Success,Customers,47,10.0,14.0,83,59,80,84,49,8882111,866965,3,13.1,61.2,Pilot with guardrails
+WF02,Technical trigger enrichment,Pipeline Creation,Marketing Ops,Accounts,112,11.0,15.0,80,80,73,61,39,5329263,390102,2,8.8,50.8,Pilot with guardrails
+WF03,Personalized enterprise outreach,Pipeline Creation,SDR Leadership,Contacts,98,10.0,18.0,60,56,59,69,83,7604527,566689,4,8.6,48.8,Pilot with guardrails
+WF01,Agentic account prioritization,Pipeline Creation,Sales Strategy,Accounts,142,16.0,19.0,63,69,74,61,80,4269534,311749,3,5.0,48.5,Pilot with guardrails
+WF05,Mutual action plan risk reader,Deal Acceleration,Sales Leadership,Opportunities,88,8.0,10.0,72,97,92,84,33,5476329,331208,4,5.0,47.5,Pilot with guardrails
+WF11,Data quality triage copilot,Governance,Data Engineering,Source Tables,69,3.0,7.0,84,72,86,78,84,6781859,311043,2,8.9,41.6,Fix data first
+WF09,Territory whitespace recommender,Planning,GTM Operations,Territories,41,5.0,11.0,64,81,72,85,22,4677629,279909,5,2.2,40.4,Fix data first
+WF06,Forecast commit anomaly review,Forecasting,GTM Operations,Opportunities,126,7.0,9.0,84,65,90,62,76,4929702,231065,2,6.1,39.1,Fix data first
+WF10,Rep capacity relief planner,Planning,Sales Operations,Territories,96,4.0,8.0,90,59,92,58,78,3417165,142701,4,1.6,33.6,Fix data first
+WF12,Executive narrative generator,Leadership Cadence,Revenue Strategy,Metrics,79,2.0,5.0,51,64,82,92,76,8438798,197974,2,5.3,29.7,Fix data first
